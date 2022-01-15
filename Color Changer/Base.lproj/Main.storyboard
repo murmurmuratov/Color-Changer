@@ -100,12 +100,14 @@
                             <constraint firstItem="ahx-1j-WxI" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="2nP-ke-Ewe"/>
                             <constraint firstItem="qJO-ux-HM3" firstAttribute="leading" secondItem="Hpf-K9-oqH" secondAttribute="trailing" constant="16" id="6BW-li-HXd"/>
                             <constraint firstItem="2Fh-PM-3ou" firstAttribute="leading" secondItem="YNw-0E-7CH" secondAttribute="trailing" constant="16" id="6Uh-QF-GpO"/>
+                            <constraint firstItem="Hpf-K9-oqH" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="Hh5-9i-ulb" secondAttribute="trailing" constant="8" symbolic="YES" id="79F-4C-swg"/>
                             <constraint firstItem="qJO-ux-HM3" firstAttribute="centerY" secondItem="Hh5-9i-ulb" secondAttribute="centerY" id="EoR-Jn-Roh"/>
                             <constraint firstItem="fNb-Tp-SSL" firstAttribute="centerY" secondItem="eHe-h7-huO" secondAttribute="centerY" id="JV6-dj-zv3"/>
                             <constraint firstItem="2Fh-PM-3ou" firstAttribute="centerY" secondItem="pRt-Hz-C6G" secondAttribute="centerY" id="M3G-sr-dZ9"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="2Fh-PM-3ou" secondAttribute="trailing" constant="16" id="M91-yc-ycX"/>
                             <constraint firstItem="ahx-1j-WxI" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="ODd-w8-SJc"/>
                             <constraint firstItem="q3V-M5-7RV" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="PsQ-Sb-cdx"/>
+                            <constraint firstItem="YNw-0E-7CH" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="pRt-Hz-C6G" secondAttribute="trailing" constant="8" symbolic="YES" id="QzF-JO-4bU"/>
                             <constraint firstItem="eHe-h7-huO" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="TAQ-Zu-VyJ"/>
                             <constraint firstItem="pRt-Hz-C6G" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="VYP-Ci-dW9"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="eHe-h7-huO" secondAttribute="bottom" constant="40" id="WFd-bs-Rt2"/>
@@ -115,6 +117,7 @@
                             <constraint firstItem="Hpf-K9-oqH" firstAttribute="centerY" secondItem="Hh5-9i-ulb" secondAttribute="centerY" id="hQ8-dc-kBg"/>
                             <constraint firstItem="eHe-h7-huO" firstAttribute="top" secondItem="pRt-Hz-C6G" secondAttribute="bottom" constant="24" id="jHB-vm-bcT"/>
                             <constraint firstItem="zNz-OE-Uv8" firstAttribute="centerY" secondItem="eHe-h7-huO" secondAttribute="centerY" id="jOy-Gd-nap"/>
+                            <constraint firstItem="fNb-Tp-SSL" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="eHe-h7-huO" secondAttribute="trailing" constant="8" symbolic="YES" id="kL8-nf-tUz"/>
                             <constraint firstItem="ahx-1j-WxI" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="lEa-ef-32Q"/>
                             <constraint firstItem="YNw-0E-7CH" firstAttribute="centerY" secondItem="pRt-Hz-C6G" secondAttribute="centerY" id="pEE-1Y-FRK"/>
                             <constraint firstItem="pRt-Hz-C6G" firstAttribute="top" secondItem="Hh5-9i-ulb" secondAttribute="bottom" constant="24" id="sZ6-BE-XDi"/>
